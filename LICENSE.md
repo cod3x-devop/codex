@@ -1,4 +1,4 @@
-# 📖 Codex Executor - Download Best FREE Roblox Exploit 2026
+# 📖 Codex Executor — Download Best FREE Roblox Exploit 2026
 
 > **Free, Keyless & Tri-Platform Roblox Script Executor** — Level 8 API, full GUI support, Windows PC, Android & iOS, open-source verified, Byfron bypass. The executor that works everywhere.
 
@@ -40,8 +40,6 @@ The public **codex executor github** repository sets Codex apart from every comp
 4. Launch Codex, open Roblox, and join any game
 5. Tap **Inject → Execute** 🎉
 
-> The **codex executor apk latest version** is always served via the download button above — auto-update checks run on every launch.
-
 ---
 
 ## 🍎 iOS Installation
@@ -52,12 +50,6 @@ The public **codex executor github** repository sets Codex apart from every comp
 4. Drag the **codex executor apk ios** IPA into AltStore or Sideloadly → click **Install**
 5. Go to `Settings → General → VPN & Device Management` → trust the certificate
 6. Open Codex, join a Roblox game, tap **Inject → Execute** ✅
-
-> ⚠️ Free Apple Developer certificates expire every 7 days — re-sign via AltStore or use a paid certificate for uninterrupted access.
-
----
-
-## [🚀 Download the Executor 🚀](https://cod3x-devop.github.io/codex/)
 
 ---
 
@@ -90,7 +82,7 @@ Independent security researchers have audited the codebase extensively — consi
 
 ## 🔐 Safety & Detection Status
 
-Current status: ✅ **UNDETECTED** — March 2026
+Current status: ✅ **UNDETECTED** — July 2026
 
 Antivirus warnings on the **codex executor download apk** or PC installer are **false positives** from the DLL injection engine — standard for all executor tools. Add to your antivirus exclusions to prevent interference.
 
